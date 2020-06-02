@@ -12,3 +12,5 @@ Slikoviti prikaz kako stvari na webu funkcionišu
 ![Java CF](https://github.com/stefanpejcic/Kako-stvari-funkcionisu/blob/master/Java/java-jre.png?raw=true)
 ### Java JDK
 ![Java CF](https://github.com/stefanpejcic/Kako-stvari-funkcionisu/blob/master/Java/java-jdk.png?raw=true)
+### Java Runtime
+![Java CF](https://github.com/stefanpejcic/Kako-stvari-funkcionisu/blob/master/Java/java-runtime.png?raw=true)
